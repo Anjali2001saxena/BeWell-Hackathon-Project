@@ -37,6 +37,8 @@ BeWell helps user to schedule an appointment with the psychologist registered on
 ## Fun Quiz :
 BeWell Fun Quiz section is basically for kids to learn about COVID and its related terms by while playing unscrambling game. It is not only a great way to make them learn about COVID but also helps to boost their working memory.
 
+**User can only use the features after signing up on the app except for the Quiz that does not require sign up.**
+
 ## Technology Used :
 - HTML
 - CSS
@@ -46,3 +48,13 @@ BeWell Fun Quiz section is basically for kids to learn about COVID and its relat
 - Express JS
 - MongoDB
 - Text to Speech API
+
+## Requirements :
+- Node JS 
+- Git
+
+## Setup Instructions :
+`git clone https://github.com/Anjali2001saxena/BeWell-Hackathon-Project.git` <br>
+`cd BeWell-Hackathon-Project`<br>
+`npm install`<br>
+`npm start`<br>

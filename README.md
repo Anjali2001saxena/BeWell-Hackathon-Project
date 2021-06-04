@@ -4,7 +4,7 @@ COVID-19 pandemic and lockdown has brought about a sense of fear and anxiety. Th
 
 ## Theme :
 BeWell is a web app that analyses the psychological and mental health conditions of an individual and provide solutions to the problems. It administers care to those who are at immediate risk of developing serious mental problems.
-BeWell conducts fun game based psychological tests which helps user to know his/her current mental health status and provide in-built solutions to improve the mental health conditions. User can keep the track on improvement in his/her mental health status and  activities like meditation and exercises with help of tracking system. In serious cases user can also book an appointment with psychologist for consultation and get the help on time.
+BeWell conducts fun game based psychological tests which helps user to know his/her current mental health status and provide in-built solutions to improve the mental health conditions. User can keep the track on improvement in his/her mental health status by comparing his/her current scores in each test with the previous ones. In serious cases user can also book an appointment with psychologist for consultation and get the help on time.
 
 ## Idea Effectiveness :
 According to recent studies there has been 41% increase in anxiety disorders cases and 67% increase in suicide cases during pandemic. So, BeWell will help people to identify these issues on time and take  necessary steps to improve the conditions and provide care to those  people who are at risk of serious mental complications. 
@@ -27,7 +27,7 @@ Game starts with some musical note that has to be copied by the user by clicking
 1. **Meditation App :**
 User can meditate for set duration of time with soothing music playing the background.
 2. **Exercise Recommendations :**
-User can exercise for specified duration by following the instructions that is being displayed on the screen.
+User can exercise for set duration of time by following the instructions that is being displayed on the screen.
 3. **Night Stories :**
 User can improve the sleeping routine by trying to sleep on time while listening to night stories.
 
@@ -36,11 +36,6 @@ BeWell helps user to schedule an appointment with the psychologist registered on
 
 ## Fun Quiz :
 BeWell Fun Quiz section is basically for kids to learn about COVID and its related terms by while playing unscrambling game. It is not only a great way to make them learn about COVID but also helps to boost their working memory.
-
-## Progress Tracking System :
-BeWell Progress Tracker maintains the record of scores of user of different tests taken by him/her each time. User can refer to this record to track his/her progress by comparing his/her current scores with previous scores. It also maintains the record of time duration that user is spending in each of the solution section and practicing the activities like meditation and exercise.
-
-***Information like time spent by user in each of the following section- exercise, medidation app , scores of psychological tests and appointments with professionals are stored with his profile and he/she can refer to this information anytime in future by just logging in the app. This way user can track progress or improvement in his/her mental health conditions.***
 
 ## Technology Used :
 - HTML
@@ -51,6 +46,3 @@ BeWell Progress Tracker maintains the record of scores of user of different test
 - Express JS
 - MongoDB
 - Text to Speech API
-
-## Idea Presentation :
-Link : https://drive.google.com/file/d/1h3G3srjNW8v2_pKt_zOSTokg7wWewkQe/view?usp=sharing

@@ -58,3 +58,7 @@ BeWell Fun Quiz section is basically for kids to learn about COVID and its relat
 `cd BeWell-Hackathon-Project`<br>
 `npm install`<br>
 `npm start`<br>
+
+## Links :
+- **Project Link :** https://bewell2.herokuapp.com/
+- **Presentation Link :** https://1drv.ms/p/s!Ams4_xtTIau_hGawzwugvkbkn1J7?e=uAdhrS
